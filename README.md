@@ -47,31 +47,25 @@ $ git clone https://github.com/IsaacMaciel/Ecoleta
 
 # === Back End ===
 $ cd Ecoleta/server/
-
 # Instalando as depedências do back end
 $ npm install
-
 # Subindo o servidor
 $ npm start
 
+
 #  === Front End ===
 $ cd Ecoleta/web/
-
 # Instalando as depedências do back end
 $ npm install
-
 # Subindo o servidor Web
 $ npm start
 
 #  === Mobile ===
 $ cd Ecoleta/mobile/
-
 # Instalando as depedências do Mobile
 $ npm install
-
 # *** Caso você não tenha o expo instalado, favor rodar o seguinte comando com privilégios adminstrativos:
 $ npm install -g expo-cli
-
 # Subindo o servidor Mobile
 $ npm start
 ```
