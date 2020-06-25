@@ -1,7 +1,7 @@
 
 <p align="center">
-   <img src=".github/Ecoleta.png"/>
-   <img src=".github/ecoleta1.gif"/>
+   <img src="https://ik.imagekit.io/IsaacAraujo/Ecoleta_jgifU0hab.png"/>
+   <img src="https://ik.imagekit.io/IsaacAraujo/ecoleta1_67b7tdhpz.gif"/>
 </p>
 
 <p align="center">
